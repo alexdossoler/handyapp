@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://appyhandy.com/sitemap.xml
+
+# Disallow admin pages from search indexing
+Disallow: /admin/
